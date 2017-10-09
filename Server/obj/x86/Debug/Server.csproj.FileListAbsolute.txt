@@ -1,0 +1,9 @@
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/bin/Debug/Server.exe
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/bin/Debug/Server.pdb
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/bin/Debug/Xwt.dll
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/obj/x86/Debug/Server.csproj.CoreCompileInputs.cache
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/obj/x86/Debug/Server.exe
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/obj/x86/Debug/Server.pdb
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/bin/Debug/Xwt.Gtk.dll.config
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/bin/Debug/Xwt.Gtk.dll
+/home/marcin/MonoDevelop Projects/TcpChatX/Server/obj/x86/Debug/Server.csprojResolveAssemblyReference.cache

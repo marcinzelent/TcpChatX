@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{8CB98A13-75A8-42B1-9E03-4FA3ABCEAA3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/Program.cs">
+    <Files>
+      <File FileName="Server/App.cs" Line="1" Column="1" />
+      <File FileName="Server/Program.cs" Line="17" Column="3" />
+      <File FileName="Server/MainWindow.cs" Line="18" Column="37" />
+      <File FileName="Server/ClientConnection.cs" Line="1" Column="1" />
+      <File FileName="Server/LogSingleton.cs" Line="1" Column="1" />
+      <File FileName="Server/packages.config" Line="1" Column="1" />
+      <File FileName="Server/TcpChatServer.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
